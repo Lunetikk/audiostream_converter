@@ -1,10 +1,10 @@
 # Audiostream Converter
-this script will convert any audiostream (AAC, DTS, ...) of a .mkv file to EAC3 768k with the same channels (via ffmpeg), then remux these audiostreams to a new .mkv (via mkvmerge)
+this script will convert any audiostream (AAC, DTS, ...) of a .mkv file to EAC3 768k (can be changed) with the same channels (via ffmpeg), then remux these audiostreams to a new .mkv (via mkvmerge)
 
 ***Prerequisites***
 
-mkvtoolnix - Matroska tools
-ffmpeg - Audio conversion tool
+- mkvtoolnix - Matroska tools
+- ffmpeg - Audio conversion tool
 
 While these apps are available via the default repos on Ubuntu, you can get a newer version of mkvtoolnix via their [mkvtoolnix - Repo](https://mkvtoolnix.download/downloads.html#ubuntu)
 
