@@ -8,8 +8,6 @@ ffmpeg - Audio conversion tool
 
 While these apps are available via the default repos on Ubuntu, you can get a newer version of mkvtoolnix via their [mkvtoolnix - Repo](https://mkvtoolnix.download/downloads.html#ubuntu)
 
-Visit [developer.spotify.com](https://developer.spotify.com/documentation/general/guides/authorization/app-settings/) and register an App. 
-
 ***Usage***
 
 Edit the following variables inside the script
