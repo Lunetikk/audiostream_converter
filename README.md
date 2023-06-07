@@ -25,7 +25,7 @@ new_codec=“eac3”
 new_bitrate=“768k”
 ```
 
-If you run the script it will convert all files inside the “input_dir”, the output file will have all audio streams converted to the set “new_codec” and “new_bitrate” but with the same channels as before. 
+If you run the script it will convert all .mkv files inside the “input_dir”, the output file will have all audio streams converted to the set “new_codec” and “new_bitrate” but with the same channels as before. 
 If the original audio stream had 7.1 channels it will be set to 5.1 because ffmpeg EAC3 only supports up to 5.1.
 
 ***ToDo***
